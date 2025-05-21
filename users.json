@@ -1,0 +1,22 @@
+{
+    "": {
+        "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "role": "Engineer"
+    },
+    "amanda": {
+        "password": "d3db3eb86f11201d21d91d47ad3140e6997a6edb831530d81eb2b5df05ca0cba",
+        "role": "Engineer"
+    },
+    "mandy": {
+        "password": "6bcbd6f158c3afc88fb2df0090ba90736dcc282c2de40bed771c5c44e2b01910",
+        "role": "Manager"
+    },
+    "SBU": {
+        "password": "17065024fc109681a7c6e0971fd81fe0e48321278fe8262c99c7e2c9c8cfa8fe",
+        "role": "Manager"
+    },
+    "amy": {
+        "password": "ead600abdcfc9faa0d631d165a02ec8a3775387b26493afc8e7fc15e75453bea",
+        "role": "Engineer"
+    }
+}
